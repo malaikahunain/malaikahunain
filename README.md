@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Malaika Hunain 👋
 
-<!--
-**malaikahunain/malaikahunain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MSCS Computer Science Student | Python Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an MSCS Computer Science student passionate about software development, Artificial Intelligence, Machine Learning, and Natural Language Processing.
+
+I enjoy building practical projects, exploring new technologies, and continuously improving my programming skills.
+
+### 💻 Technical Skills
+- **Programming Languages:** Python
+- **AI & Machine Learning:** Machine Learning, NLP, Large Language Models (LLMs), RAG, QLoRA
+- **Backend Development:** Python, REST APIs
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+
+- **LLM QLoRA Text Classification:** Exploring parameter-efficient fine-tuning for text classification.
+- **E-commerce Backend API:** Backend development for an e-commerce application.
+- **CommBank Web:** Web application development project.
+- **CommBank Server:** Server-side development project.
+
+### 🎓 Research Interests
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LLM Hallucination Reduction
+- Natural Language Processing (NLP)
+- Uncertainty-Aware Retrieval
+
+### 📫 Connect With Me
+- GitHub: https://github.com/malaikahunain
+
+---
+
+⭐ Thanks for visiting my profile!
